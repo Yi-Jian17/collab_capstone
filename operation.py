@@ -3,9 +3,9 @@
 
 
 #M2 YYY
-def subs (a,b)
-c=a-b
-return c
+def subs (a,b):
+  c=a-b
+  return c
 
 
 #M3 ZZZ
